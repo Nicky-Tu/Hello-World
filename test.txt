@@ -2,3 +2,5 @@ change first in line 1;
 change second in line 2;
 change third in line 3;
 change fourth in line 4;
+change fifth in line 5;
+change six in line6;
