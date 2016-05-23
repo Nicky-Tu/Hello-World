@@ -4,3 +4,4 @@ change third in line 3;
 change fourth in line 4;
 change fifth in line 5;
 change six in line6;
+change seventh in line 7;
