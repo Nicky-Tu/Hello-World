@@ -1,2 +1,3 @@
 change first in line 1;
 change second in line 2;
+change third in line 3;
